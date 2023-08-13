@@ -1,0 +1,7 @@
+vendor/
+/composer.lock
+.idea/
+*.orig
+.env
+/src/mod/**
+node_modules/
